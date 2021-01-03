@@ -1,4 +1,4 @@
-# L-gica-de-programa-o-C-
+# Estudo
 
 Material do Curso de lógica em programação
 
